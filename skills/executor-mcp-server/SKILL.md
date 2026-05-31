@@ -8,6 +8,12 @@ description: >
   when sandboxed or isolated execution is needed. Also use for phrases like "run
   this in a sandbox", "execute this Python", "call this API", "chain these tools",
   or "what runtimes are available in the sandbox".
+allowed-tools:
+  - mcp__executor__exec_bash
+  - mcp__executor__exec_code
+  - mcp__executor__exec_http
+  - mcp__executor__exec_chain
+  - mcp__executor__exec_sandbox_info
 ---
 
 # Executor MCP Server
