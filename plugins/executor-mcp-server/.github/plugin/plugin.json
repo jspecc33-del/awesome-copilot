@@ -1,0 +1,21 @@
+{
+  "name": "executor-mcp-server",
+  "description": "Universal sandboxed execution MCP server — bash commands, Python/JS/TS code snippets, HTTP API calls, and multi-server tool chaining. Everything runs in an isolated sandbox with configurable timeouts, output limits, and domain allow/block policies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Awesome Copilot Community"
+  },
+  "repository": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "keywords": [
+    "bash",
+    "code-execution",
+    "http",
+    "mcp",
+    "sandbox",
+    "typescript"
+  ],
+  "skills": [
+    "./skills/executor-mcp-server/"
+  ]
+}
