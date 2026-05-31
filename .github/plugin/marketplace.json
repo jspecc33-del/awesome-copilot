@@ -310,6 +310,12 @@
       "version": "1.0.0"
     },
     {
+      "name": "executor-mcp-server",
+      "source": "executor-mcp-server",
+      "description": "Universal sandboxed execution MCP server — bash commands, Python/JS/TS code snippets, HTTP API calls, and multi-server tool chaining. Everything runs in an isolated sandbox with configurable timeouts, output limits, and domain allow/block policies.",
+      "version": "1.0.0"
+    },
+    {
       "name": "eyeball",
       "source": "eyeball",
       "description": "Document analysis with inline source screenshots. When you ask Copilot to analyze a document, Eyeball generates a Word doc where every factual claim includes a highlighted screenshot from the source material so you can verify it with your own eyes.",
